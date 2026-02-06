@@ -1,4 +1,4 @@
-# Cheese App (Figma Design)
+# Chees App (Figma Design)
 
 A Figma design project for the **Cheese App** — a UI/UX prototype created using Figma and stored in this repository.
 
